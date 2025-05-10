@@ -1,0 +1,1700 @@
+[00:00:00] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.1.0.mca
+[00:00:00] [main/INFO]: [bclib] Patcher Stage... Saving Patch State%
+[00:00:00] [main/INFO]: [DataFixerAPI] Updating Patch-Level for 'betternether' from 0.0.0 to 9.0.1
+[00:00:00] [main/INFO]: [DataFixerAPI] Updating Patch-Level for 'bclib' from 0.0.0 to 3.0.11
+[00:00:00] [main/INFO]: Generated runtime resources for 1 packs in a total of: 43 ms
+[00:00:00] [main/INFO]: [bclib] Did not manage biome betterend:empty_aurora_cave
+[00:00:00] [main/INFO]: [bclib] Did not manage biome betterend:empty_end_cave
+[00:00:00] [main/INFO]: [bclib] Did not manage biome betterend:empty_smaragdant_cave
+[00:00:00] [main/INFO]: [bclib] Did not manage biome betterend:jade_cave
+[00:00:00] [main/INFO]: [bclib] Did not manage biome betterend:lush_aurora_cave
+[00:00:00] [main/INFO]: [bclib] Did not manage biome betterend:lush_smaragdant_cave
+[00:00:00] [main/INFO]: [bclib] Did not manage biome betterend:megalake_grove
+[00:00:00] [main/INFO]: [bclib] Did not manage biome betterend:neon_oasis
+[00:00:00] [main/INFO]: [bclib] Did not manage biome betterend:painted_mountains
+[00:00:01] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (29225acd)
+[00:00:01] [main/INFO]: [bclib] Unable to build Biome List yet
+[00:00:01] [main/INFO]: [bclib] No Void Biomes found. Disabling by using barrens
+[00:00:01] [main/INFO]: [bclib] No Barrens Biomes found. Disabling by using land Biomes
+[00:00:01] [main/WARN]: [bclib] No Center Island Biomes found. Forcing use of vanilla center.
+[00:00:01] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (fb82bcd)
+[00:00:01] [main/INFO]: [bclib] Unable to build Biome List yet
+[00:00:01] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (63eb50e7)
+[00:00:01] [main/INFO]: [bclib] Unable to build Biome List yet
+[00:00:01] [main/INFO]: [bclib] No Void Biomes found. Disabling by using barrens
+[00:00:01] [main/INFO]: [bclib] No Barrens Biomes found. Disabling by using land Biomes
+[00:00:01] [main/WARN]: [bclib] No Center Island Biomes found. Forcing use of vanilla center.
+[00:00:01] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (4a259e1a)
+[00:00:01] [main/INFO]: [bclib] Unable to build Biome List yet
+[00:00:01] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (780d6172)
+[00:00:01] [main/INFO]: [bclib] Unable to build Biome List yet
+[00:00:01] [main/INFO]: [bclib] No Void Biomes found. Disabling by using barrens
+[00:00:01] [main/INFO]: [bclib] No Barrens Biomes found. Disabling by using land Biomes
+[00:00:01] [main/WARN]: [bclib] No Center Island Biomes found. Forcing use of vanilla center.
+[00:00:01] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (4bf072f8)
+[00:00:01] [main/INFO]: [bclib] Unable to build Biome List yet
+[00:00:01] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (5b5e3377)
+[00:00:01] [main/INFO]: [bclib] Unable to build Biome List yet
+[00:00:01] [main/INFO]: [bclib] No Void Biomes found. Disabling by using barrens
+[00:00:01] [main/INFO]: [bclib] No Barrens Biomes found. Disabling by using land Biomes
+[00:00:01] [main/WARN]: [bclib] No Center Island Biomes found. Forcing use of vanilla center.
+[00:00:01] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (39a16ef2)
+[00:00:01] [main/INFO]: [bclib] Unable to build Biome List yet
+[00:00:02] [main/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:00:02] [main/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:00:02] [main/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:00:02] [main/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:00:02] [main/WARN]: [bclib] No valid BCLBiome Registry available!
+[00:00:02] [main/WARN]: [bclib] No valid Biome Registry available!
+[00:00:02] [main/WARN]: Adding spell_power:fire to saved/remote registry.
+[00:00:02] [main/WARN]: Adding spell_power:frost to saved/remote registry.
+[00:00:02] [main/WARN]: Adding spell_power:arcane to saved/remote registry.
+[00:00:02] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[00:00:02] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (52f23415)
+[00:00:02] [main/INFO]: [bclib] Unable to build Biome List yet
+[00:00:02] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (19fcec66)
+[00:00:02] [main/INFO]: [bclib] Unable to build Biome List yet
+[00:00:02] [main/INFO]: [bclib] No Void Biomes found. Disabling by using barrens
+[00:00:02] [main/INFO]: [bclib] No Barrens Biomes found. Disabling by using land Biomes
+[00:00:02] [main/WARN]: [bclib] No Center Island Biomes found. Forcing use of vanilla center.
+[00:00:02] [main/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:00:02] [main/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:00:03] [Worker-Main-1/ERROR]: [Load My Fucking Tags] Couldn't load certain entries with the tag supplementaries:tipped_spikes_blacklist: minecraft:oozing (from fabric), minecraft:infested (from fabric)
+[00:00:04] [Worker-Main-3/ERROR]: [Load My Fucking Tags] Couldn't load certain entries with the tag fetzisasiandeco:epic_samurai_weapon: epicsamurai:katana (from fabric), epicsamurai:wakizashi (from fabric), epicsamurai:naginata (from fabric), epicsamurai:nagamaki (from fabric), epicsamurai:shuko (from fabric), epicsamurai:tetsubo (from fabric), epicsamurai:odachi (from fabric), epicsamurai:tonbukiri (from fabric), epicsamurai:kamayari (from fabric), epicsamurai:tanegashima (from fabric), epicsamurai:kunai (from fabric), epicsamurai:kama (from fabric), epicsamurai:sai (from fabric), epicsamurai:shuriken (from fabric), epicsamurai:katana_netherite (from fabric), epicsamurai:wakizashi_netherite (from fabric), epicsamurai:katana_oni (from fabric), epicsamurai:katana_kitsune (from fabric), epicsamurai:katana_kitsune_blue (from fabric), epicsamurai:katana_akaname (from fabric), epicsamurai:katana_jorogumo (from fabric), epicsamurai:naginata_netherite (from fabric), epicsamurai:nagamaki_netherite (from fabric), epicsamurai:shuko_netherite (from fabric), epicsamurai:tetsubo_netherite (from fabric), epicsamurai:odachi_netherite (from fabric), epicsamurai:tonbukiri_netherite (from fabric), epicsamurai:kamayari_netherite (from fabric), epicsamurai:kunai_netherite (from fabric), epicsamurai:kama_netherite (from fabric), epicsamurai:sai_netherite (from fabric)
+[00:00:04] [Worker-Main-3/ERROR]: [Load My Fucking Tags] Couldn't load certain entries with the tag mysticalagriculture:essences: mysticalagriculture:nikolite_essence (from fabric), mysticalagriculture:antimony_essence (from fabric)
+[00:00:04] [Worker-Main-3/ERROR]: [Load My Fucking Tags] Couldn't load certain entries with the tag mysticalagriculture:seeds: mysticalagriculture:nikolite_seeds (from fabric), mysticalagriculture:antimony_seeds (from fabric)
+[00:00:04] [Worker-Main-2/ERROR]: [Load My Fucking Tags] Couldn't load certain entries with the tag mysticalagriculture:crops: mysticalagriculture:nikolite_crop (from fabric), mysticalagriculture:antimony_crop (from fabric)
+[00:00:08] [main/INFO]: [bclib] Disabling Recipe: bclib:test_star
+[00:00:08] [main/ERROR]: Parsing error loading recipe extendedae:u_terminal/upgrade
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'ae2wtlib:upgrade'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:08] [main/ERROR]: Parsing error loading recipe computercraft:turtle_normal/techreborn/bronze_hoe
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe computercraft:turtle_advanced/techreborn/ruby_hoe
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe computercraft:turtle_normal/techreborn/sapphire_axe
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe computercraft:turtle_advanced/techreborn/ruby_axe
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe computercraft:turtle_normal/techreborn/peridot_pickaxe
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe extendedae:u_terminal/xe
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'ae2wtlib:combine'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe extendedae:u_terminal/xc
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'ae2wtlib:combine'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe extendedae:u_terminal/xa
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'ae2wtlib:combine'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe computercraft:turtle_advanced/techreborn/bronze_spade
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe computercraft:turtle_normal/techreborn/ruby_axe
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe computercraft:turtle_normal/techreborn/bronze_spade
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe computercraft:turtle_advanced/techreborn/bronze_sword
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe computercraft:turtle_normal/techreborn/ruby_spade
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe computercraft:turtle_normal/techreborn/ruby_hoe
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe computercraft:turtle_normal/techreborn/sapphire_hoe
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe computercraft:turtle_advanced/techreborn/sapphire_spade
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe computercraft:turtle_normal/techreborn/sapphire_pickaxe
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe computercraft:turtle_advanced/techreborn/ruby_spade
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe computercraft:turtle_advanced/techreborn/peridot_pickaxe
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe advanced_reborn:crafting/nano_helmet_2
+com.google.gson.JsonSyntaxException: Unknown item 'gearreborn:nv_goggles'
+	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1869.method_8155(class_1869.java:272) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1856.method_8107(class_1856.java:160) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1856.method_8102(class_1856.java:143) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1869.method_8157(class_1869.java:252) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1869$class_1870.method_8164(class_1869.java:285) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1869$class_1870.method_8121(class_1869.java:279) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:135) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe computercraft:turtle_advanced/techreborn/peridot_sword
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe computercraft:turtle_normal/techreborn/peridot_hoe
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe computercraft:turtle_advanced/techreborn/bronze_axe
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe computercraft:turtle_normal/techreborn/sapphire_sword
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe computercraft:turtle_advanced/techreborn/sapphire_pickaxe
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe computercraft:turtle_normal/techreborn/ruby_pickaxe
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe computercraft:turtle_normal/techreborn/peridot_sword
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe computercraft:turtle_normal/techreborn/peridot_axe
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe computercraft:turtle_advanced/techreborn/sapphire_sword
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe computercraft:turtle_normal/techreborn/bronze_pickaxe
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe computercraft:turtle_advanced/techreborn/peridot_hoe
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe computercraft:turtle_advanced/techreborn/ruby_pickaxe
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe computercraft:turtle_normal/techreborn/peridot_spade
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe computercraft:turtle_advanced/techreborn/ruby_sword
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe computercraft:turtle_normal/techreborn/sapphire_spade
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe computercraft:turtle_advanced/techreborn/sapphire_axe
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe computercraft:turtle_advanced/techreborn/peridot_axe
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe computercraft:turtle_advanced/techreborn/bronze_pickaxe
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe computercraft:turtle_advanced/techreborn/peridot_spade
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe computercraft:turtle_normal/techreborn/bronze_axe
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe computercraft:turtle_advanced/techreborn/bronze_hoe
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe computercraft:turtle_normal/techreborn/ruby_sword
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe computercraft:turtle_advanced/techreborn/sapphire_hoe
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:09] [main/ERROR]: Parsing error loading recipe computercraft:turtle_normal/techreborn/bronze_sword
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'computercraft:impostor_shaped'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[00:00:10] [main/INFO]: Loaded 120 recipes
+[00:00:10] [main/ERROR]: Parsing error loading custom advancement tconstruct:recipes/smeltery/seared/seared_brick_kiln: Missing criteria, expected to find a JsonObject
+[00:00:10] [main/ERROR]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
+[00:00:10] [main/ERROR]: Parsing error loading custom advancement explorerscompass:explorers_compass_cobweb: Expected items to be a JsonArray, was "min...eb"
+[00:00:10] [main/ERROR]: Parsing error loading custom advancement explorerscompass:explorers_compass_cracked_stone_bricks: Expected items to be a JsonArray, was "min...ks"
+[00:00:10] [main/ERROR]: Parsing error loading custom advancement estrogen:hard_to_catch: No value present
+[00:00:10] [main/ERROR]: Parsing error loading custom advancement tconstruct:recipes/smeltery/scorched/scorched_brick_kiln: Missing criteria, expected to find a JsonObject
+[00:00:10] [main/ERROR]: Parsing error loading custom advancement naturescompass:natures_compass: Expected items to be a JsonArray, was "min...ss"
+[00:00:10] [main/ERROR]: Parsing error loading custom advancement explorerscompass:explorers_compass: Expected items to be a JsonArray, was "min...ss"
+[00:00:11] [main/INFO]: Loaded 22500 advancements
+[00:00:11] [main/INFO]: Loaded 30 Loonium configurations
+[00:00:11] [main/INFO]: Loaded 23 dynamic modifiers in 2.141311 ms
+[00:00:11] [main/INFO]: Reloading config...
+[00:00:11] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:ash_from_burning_mobs - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[00:00:11] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:straw_from_flax - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[00:00:11] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:fishing_antique_ink - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[00:00:11] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:fishing_antique_ink_treasure - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[00:00:11] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:replace_rope - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: supplementaries:replace_rope
+[00:00:11] [main/INFO]: Loaded 44 chiseling recipes
+[00:00:11] [main/INFO]: Loaded 27 flute songs
+[00:00:11] [main/INFO]: Loaded 69 dynamic modifiers and 15 modifier redirects in 25.929522 ms
+[00:00:11] [main/INFO]: Loaded 5 modifier tags for 20 modifiers in 6.341931 ms
+[00:00:11] [main/INFO]: Loaded 49 enchantment to modifier mappings in 0.914048 ms
+[00:00:11] [main/INFO]: Loaded 48 spilling fluids in 8.162422 ms
+[00:00:11] [main/INFO]: Loaded 64 materials in 6.30453 ms
+[00:00:11] [main/INFO]: Loaded 1 material tags for 20 materials in 5.574888 ms
+[00:00:11] [main/INFO]: 196 stats loaded for 65 materials in 14.019496 ms
+[00:00:11] [main/INFO]: 86 traits loaded for 65 materials in 16.326778 ms
+[00:00:11] [main/INFO]: Loaded 33 tool definitions in 16.071531 ms
+[00:00:11] [main/INFO]: Loaded 18 station slot layouts in 9.638665 ms
+[00:00:11] [main/INFO]: Recipe ingredient caching done in 20 ms
+[00:00:11] [main/INFO]: Loaded cucumber-tags.json in 1 ms
+[00:00:12] [main/INFO]: Applied 7 data villager trades
+[00:00:12] [main/INFO]: Finished additional setup in 0 ms
+[00:00:12] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (19fcec66)
+[00:00:12] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (52f23415)
+[00:00:12] [main/INFO]: Applied 3403 biome modifications to 137 of 137 new biomes in 84.44 ms
+[00:00:12] [Server thread/INFO]: Loading server config for easyanvils
+[00:00:12] [Thread-4/INFO]: Reloading server config for easyanvils
+[00:00:12] [Thread-4/INFO]: Reloading server config for easyanvils
+[00:00:12] [Server thread/INFO]: Loading server config for enchantinginfuser
+[00:00:12] [Thread-4/INFO]: Reloading server config for enchantinginfuser
+[00:00:12] [Server thread/INFO]: Loading server config for magnumtorch
+[00:00:12] [Thread-4/INFO]: Reloading server config for magnumtorch
+[00:00:12] [Server thread/INFO]: Loading server config for puzzlesapi
+[00:00:12] [Thread-4/INFO]: Reloading server config for puzzlesapi
+[00:00:12] [Server thread/INFO]: Successfully loaded './world/./serverconfig/whisperwoods-server.json5'
+[00:00:12] [Server thread/INFO]: Successfully loaded './config/whisperwoods-client.json5'
+[00:00:12] [Server thread/INFO]: Async Locator -> Starting locating executor service with thread pool size of 1
+[00:00:12] [Server thread/INFO]: [Quilt DFU API] Serverside DataFixer Registry is about to freeze
+[00:00:12] [Server thread/INFO]: [Quilt DFU API] Serverside DataFixer Registry was frozen
+[00:00:12] [Server thread/INFO]: Scanning class appeng.server.testplots.TestPlots for plots
+[00:00:12] [Server thread/INFO]: Scanning class appeng.server.testplots.AutoCraftingTestPlots for plots
+[00:00:12] [Server thread/INFO]: Scanning class appeng.server.testplots.InscriberTestPlots for plots
+[00:00:12] [Server thread/INFO]: Scanning class appeng.server.testplots.P2PTestPlots for plots
+[00:00:12] [Server thread/INFO]: Scanning class appeng.server.testplots.ItemP2PTestPlots for plots
+[00:00:12] [Server thread/INFO]: Scanning class appeng.server.testplots.MemoryCardTestPlots for plots
+[00:00:12] [Server thread/INFO]: Scanning class appeng.server.testplots.PatternProviderLockModePlots for plots
+[00:00:12] [Server thread/INFO]: Scanning class appeng.server.testplots.PatternProviderPlots for plots
+[00:00:12] [Server thread/INFO]: Scanning class appeng.server.testplots.SpatialTestPlots for plots
+[00:00:12] [Server thread/INFO]: Scanning class appeng.server.testplots.QnbTestPlots for plots
+[00:00:12] [Server thread/INFO]: Scanning class appeng.server.testplots.GuidebookPlot for plots
+[00:00:12] [Server thread/INFO]: Scanning class appeng.server.testplots.SubnetPlots for plots
+[00:00:12] [Server thread/INFO]: Scanning class appeng.server.testplots.ChannelTests for plots
+[00:00:12] [Server thread/INFO]: Scanning class appeng.server.testplots.AnnihilationPlaneTests for plots
+[00:00:12] [Server thread/INFO]: Saving config FrozenLibConfig from frozenlib
+[00:00:12] [Server thread/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[00:00:13] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[00:00:13] [Server thread/INFO]: Loading properties
+[00:00:13] [Server thread/INFO]: Default game type: SURVIVAL
+[00:00:13] [Server thread/INFO]: Generating keypair
+[00:00:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:00:13] [Server thread/INFO]: Using epoll channel type
+[00:00:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:00:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:00:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:00:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:00:13] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:00:13] [Server thread/INFO]: Preparing level "world"
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for ad_astra:glacio
+    class_4766 (69095758)
+        biomes     = 2
+        namespaces = ad_astra(2)
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for ad_extendra:jupiter
+    class_4766 (662d9590)
+        biomes     = 1
+        namespaces = ad_extendra(1)
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for ad_extendra:makemake_orbit
+    class_1992 (3f13f92b)
+        biomes     = 1
+        namespaces = ad_astra(1)
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for ad_extendra:b_orbit
+    class_1992 (71c2a41d)
+        biomes     = 1
+        namespaces = ad_astra(1)
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for ad_extendra:neptune
+    class_4766 (19005ec9)
+        biomes     = 1
+        namespaces = ad_extendra(1)
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for ad_extendra:neptune_orbit
+    class_1992 (4f82779e)
+        biomes     = 1
+        namespaces = ad_astra(1)
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for ad_extendra:ceres
+    class_4766 (3cee21ef)
+        biomes     = 1
+        namespaces = ad_extendra(1)
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for ad_extendra:ceres_orbit
+    class_1992 (6d60dcc0)
+        biomes     = 1
+        namespaces = ad_astra(1)
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for ad_extendra:quaoar
+    class_4766 (19588b51)
+        biomes     = 1
+        namespaces = ad_extendra(1)
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for minecraft:overworld
+    class_4766 (508a63d8)
+        biomes     = 53
+        namespaces = minecraft(53)
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for ad_astra:mars
+    class_4766 (789fb2bb)
+        biomes     = 3
+        namespaces = ad_astra(3)
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for ad_astra:venus
+    class_4766 (799869c4)
+        biomes     = 2
+        namespaces = ad_astra(2)
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for minecraft:the_end
+    BCLib - The End  BiomeSource (19fcec66)
+        biomes     = 24
+        namespaces = betterend(19), minecraft(5)
+        seed       = -2673523871263075364
+        height     = 128
+        deciders   = 0
+        config     = BCLEndBiomeSourceConfig{mapVersion=hex, generatorVersion=vanilla, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256}
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for ad_extendra:b
+    class_4766 (72426a8b)
+        biomes     = 2
+        namespaces = ad_extendra(2)
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for ad_extendra:jupiter_orbit
+    class_1992 (1909f75e)
+        biomes     = 1
+        namespaces = ad_astra(1)
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for ad_astra:mercury_orbit
+    class_1992 (555f10be)
+        biomes     = 1
+        namespaces = ad_astra(1)
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for ad_extendra:uranus_orbit
+    class_1992 (67931d6f)
+        biomes     = 1
+        namespaces = ad_astra(1)
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for minecraft:the_nether
+    BCLib - Nether BiomeSource (52f23415)
+        biomes     = 27
+        namespaces = minecraft(5), betternether(22)
+        seed       = -2673523871263075364
+        height     = 128
+        config     = BCLibNetherBiomeSourceConfig{mapVersion=hex, useVerticalBiomes=true, amplified=false, biomeSize=256, biomeSizeVertical=86}
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for ad_extendra:sedna
+    class_4766 (5d3f93b5)
+        biomes     = 1
+        namespaces = ad_extendra(1)
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for ad_astra:earth_orbit
+    class_1992 (7eb4c139)
+        biomes     = 1
+        namespaces = ad_astra(1)
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for ad_astra:mercury
+    class_4766 (3bacb66b)
+        biomes     = 1
+        namespaces = ad_astra(1)
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for ad_extendra:eris
+    class_4766 (46ad9ac8)
+        biomes     = 1
+        namespaces = ad_extendra(1)
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for ad_extendra:saturn
+    class_4766 (7b458134)
+        biomes     = 1
+        namespaces = ad_extendra(1)
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for ad_extendra:saturn_orbit
+    class_1992 (eea2f4d)
+        biomes     = 1
+        namespaces = ad_astra(1)
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for ad_astra:venus_orbit
+    class_1992 (5f531a61)
+        biomes     = 1
+        namespaces = ad_astra(1)
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for ad_astra:glacio_orbit
+    class_1992 (780975fb)
+        biomes     = 1
+        namespaces = ad_astra(1)
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for ad_extendra:makemake
+    class_4766 (74fe8b1d)
+        biomes     = 1
+        namespaces = ad_extendra(1)
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for ad_extendra:quaoar_orbit
+    class_1992 (558f9af0)
+        biomes     = 1
+        namespaces = ad_astra(1)
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for ad_extendra:orcus
+    class_4766 (2e93d637)
+        biomes     = 1
+        namespaces = ad_extendra(1)
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for ad_extendra:pluto_orbit
+    class_1992 (35214655)
+        biomes     = 1
+        namespaces = ad_astra(1)
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for ad_extendra:uranus
+    class_4766 (3b4f52d)
+        biomes     = 1
+        namespaces = ad_extendra(1)
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for ad_extendra:sedna_orbit
+    class_1992 (206ddd12)
+        biomes     = 1
+        namespaces = ad_astra(1)
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for ad_extendra:haumea
+    class_4766 (28cbc56)
+        biomes     = 1
+        namespaces = ad_extendra(1)
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for ad_extendra:haumea_orbit
+    class_1992 (5a0a062a)
+        biomes     = 1
+        namespaces = ad_astra(1)
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for ad_extendra:eris_orbit
+    class_1992 (32783917)
+        biomes     = 1
+        namespaces = ad_astra(1)
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for ad_extendra:gonggong
+    class_4766 (2275d5e5)
+        biomes     = 1
+        namespaces = ad_extendra(1)
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for ad_astra:moon
+    class_1992 (e1748bd)
+        biomes     = 1
+        namespaces = ad_astra(1)
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for ad_extendra:gonggong_orbit
+    class_1992 (fe4f3b5)
+        biomes     = 1
+        namespaces = ad_astra(1)
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for ad_astra:moon_orbit
+    class_1992 (653c0400)
+        biomes     = 1
+        namespaces = ad_astra(1)
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for ad_extendra:orcus_orbit
+    class_1992 (58ecac99)
+        biomes     = 1
+        namespaces = ad_astra(1)
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for ad_astra:mars_orbit
+    class_1992 (5b485320)
+        biomes     = 1
+        namespaces = ad_astra(1)
+[00:00:13] [Server thread/INFO]: [bclib] 
+Apply Modifications for ad_extendra:pluto
+    class_4766 (7adf92b9)
+        biomes     = 1
+        namespaces = ad_extendra(1)
+[00:00:13] [Server thread/INFO]: [bclib] World Dimensions: 
+ - ad_astra:glacio: 
+     net.minecraft.class_3754@4b21e7e7 
+     class_4766 (69095758)
+         biomes     = 2
+         namespaces = ad_astra(2)
+ - ad_extendra:jupiter: 
+     net.minecraft.class_3754@67f5f0a1 
+     class_4766 (662d9590)
+         biomes     = 1
+         namespaces = ad_extendra(1)
+ - ad_extendra:makemake_orbit: 
+     net.minecraft.class_3754@7b492ff1 
+     class_1992 (3f13f92b)
+         biomes     = 1
+         namespaces = ad_astra(1)
+ - ad_extendra:b_orbit: 
+     net.minecraft.class_3754@39fa327c 
+     class_1992 (71c2a41d)
+         biomes     = 1
+         namespaces = ad_astra(1)
+ - ad_extendra:neptune: 
+     net.minecraft.class_3754@2b84dcbf 
+     class_4766 (19005ec9)
+         biomes     = 1
+         namespaces = ad_extendra(1)
+ - ad_extendra:neptune_orbit: 
+     net.minecraft.class_3754@2783d5c0 
+     class_1992 (4f82779e)
+         biomes     = 1
+         namespaces = ad_astra(1)
+ - ad_extendra:ceres: 
+     net.minecraft.class_3754@318263e9 
+     class_4766 (3cee21ef)
+         biomes     = 1
+         namespaces = ad_extendra(1)
+ - ad_extendra:ceres_orbit: 
+     net.minecraft.class_3754@54f43979 
+     class_1992 (6d60dcc0)
+         biomes     = 1
+         namespaces = ad_astra(1)
+ - ad_extendra:quaoar: 
+     net.minecraft.class_3754@3be73eb8 
+     class_4766 (19588b51)
+         biomes     = 1
+         namespaces = ad_extendra(1)
+ - minecraft:overworld: 
+     net.minecraft.class_3754@2540b741 
+     class_4766 (508a63d8)
+         biomes     = 53
+         namespaces = minecraft(53)
+ - ad_astra:mars: 
+     net.minecraft.class_3754@7a8f41ee 
+     class_4766 (789fb2bb)
+         biomes     = 3
+         namespaces = ad_astra(3)
+ - ad_astra:venus: 
+     net.minecraft.class_3754@59422309 
+     class_4766 (799869c4)
+         biomes     = 2
+         namespaces = ad_astra(2)
+ - minecraft:the_end: 
+     BCLib - Chunk Generator (469d7237) 
+     BCLib - The End  BiomeSource (19fcec66)
+         biomes     = 24
+         namespaces = betterend(19), minecraft(5)
+         seed       = -2673523871263075364
+         height     = 128
+         deciders   = 0
+         config     = BCLEndBiomeSourceConfig{mapVersion=hex, generatorVersion=vanilla, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256}
+ - ad_extendra:b: 
+     net.minecraft.class_3754@164e5065 
+     class_4766 (72426a8b)
+         biomes     = 2
+         namespaces = ad_extendra(2)
+ - ad_extendra:jupiter_orbit: 
+     net.minecraft.class_3754@34282282 
+     class_1992 (1909f75e)
+         biomes     = 1
+         namespaces = ad_astra(1)
+ - ad_astra:mercury_orbit: 
+     net.minecraft.class_3754@31f6bf08 
+     class_1992 (555f10be)
+         biomes     = 1
+         namespaces = ad_astra(1)
+ - ad_extendra:uranus_orbit: 
+     net.minecraft.class_3754@125a1f2d 
+     class_1992 (67931d6f)
+         biomes     = 1
+         namespaces = ad_astra(1)
+ - minecraft:the_nether: 
+     BCLib - Chunk Generator (68118dc2) 
+     BCLib - Nether BiomeSource (52f23415)
+         biomes     = 27
+         namespaces = minecraft(5), betternether(22)
+         seed       = -2673523871263075364
+         height     = 128
+         config     = BCLibNetherBiomeSourceConfig{mapVersion=hex, useVerticalBiomes=true, amplified=false, biomeSize=256, biomeSizeVertical=86}
+ - ad_extendra:sedna: 
+     net.minecraft.class_3754@53aedde2 
+     class_4766 (5d3f93b5)
+         biomes     = 1
+         namespaces = ad_extendra(1)
+ - ad_astra:earth_orbit: 
+     net.minecraft.class_3754@1aaf3cb0 
+     class_1992 (7eb4c139)
+         biomes     = 1
+         namespaces = ad_astra(1)
+ - ad_astra:mercury: 
+     net.minecraft.class_3754@1e483d31 
+     class_4766 (3bacb66b)
+         biomes     = 1
+         namespaces = ad_astra(1)
+ - ad_extendra:eris: 
+     net.minecraft.class_3754@25047411 
+     class_4766 (46ad9ac8)
+         biomes     = 1
+         namespaces = ad_extendra(1)
+ - ad_extendra:saturn: 
+     net.minecraft.class_3754@243b9ad8 
+     class_4766 (7b458134)
+         biomes     = 1
+         namespaces = ad_extendra(1)
+ - ad_extendra:saturn_orbit: 
+     net.minecraft.class_3754@848767d 
+     class_1992 (eea2f4d)
+         biomes     = 1
+         namespaces = ad_astra(1)
+ - ad_astra:venus_orbit: 
+     net.minecraft.class_3754@27c6a609 
+     class_1992 (5f531a61)
+         biomes     = 1
+         namespaces = ad_astra(1)
+ - ad_astra:glacio_orbit: 
+     net.minecraft.class_3754@33b91f19 
+     class_1992 (780975fb)
+         biomes     = 1
+         namespaces = ad_astra(1)
+ - ad_extendra:makemake: 
+     net.minecraft.class_3754@661a8d65 
+     class_4766 (74fe8b1d)
+         biomes     = 1
+         namespaces = ad_extendra(1)
+ - ad_extendra:quaoar_orbit: 
+     net.minecraft.class_3754@2e35168f 
+     class_1992 (558f9af0)
+         biomes     = 1
+         namespaces = ad_astra(1)
+ - ad_extendra:orcus: 
+     net.minecraft.class_3754@1cd00725 
+     class_4766 (2e93d637)
+         biomes     = 1
+         namespaces = ad_extendra(1)
+ - ad_extendra:pluto_orbit: 
+     net.minecraft.class_3754@3326bf10 
+     class_1992 (35214655)
+         biomes     = 1
+         namespaces = ad_astra(1)
+ - ad_extendra:uranus: 
+     net.minecraft.class_3754@1fc12351 
+     class_4766 (3b4f52d)
+         biomes     = 1
+         namespaces = ad_extendra(1)
+ - ad_extendra:sedna_orbit: 
+     net.minecraft.class_3754@26b52830 
+     class_1992 (206ddd12)
+         biomes     = 1
+         namespaces = ad_astra(1)
+ - ad_extendra:haumea: 
+     net.minecraft.class_3754@1441dcfd 
+     class_4766 (28cbc56)
+         biomes     = 1
+         namespaces = ad_extendra(1)
+ - ad_extendra:haumea_orbit: 
+     net.minecraft.class_3754@55f151f3 
+     class_1992 (5a0a062a)
+         biomes     = 1
+         namespaces = ad_astra(1)
+ - ad_extendra:eris_orbit: 
+     net.minecraft.class_3754@2844bd91 
+     class_1992 (32783917)
+         biomes     = 1
+         namespaces = ad_astra(1)
+ - ad_extendra:gonggong: 
+     net.minecraft.class_3754@7dd46691 
+     class_4766 (2275d5e5)
+         biomes     = 1
+         namespaces = ad_extendra(1)
+ - ad_astra:moon: 
+     net.minecraft.class_3754@3b2c4db 
+     class_1992 (e1748bd)
+         biomes     = 1
+         namespaces = ad_astra(1)
+ - ad_extendra:gonggong_orbit: 
+     net.minecraft.class_3754@515afc36 
+     class_1992 (fe4f3b5)
+         biomes     = 1
+         namespaces = ad_astra(1)
+ - ad_astra:moon_orbit: 
+     net.minecraft.class_3754@70bd8060 
+     class_1992 (653c0400)
+         biomes     = 1
+         namespaces = ad_astra(1)
+ - ad_extendra:orcus_orbit: 
+     net.minecraft.class_3754@5ed150fe 
+     class_1992 (58ecac99)
+         biomes     = 1
+         namespaces = ad_astra(1)
+ - ad_astra:mars_orbit: 
+     net.minecraft.class_3754@476a66a9 
+     class_1992 (5b485320)
+         biomes     = 1
+         namespaces = ad_astra(1)
+ - ad_extendra:pluto: 
+     net.minecraft.class_3754@2edd7bbc 
+     class_4766 (7adf92b9)
+         biomes     = 1
+         namespaces = ad_extendra(1)
+[00:00:13] [Server thread/INFO]: [bclib] Merged 19 additional Surface Rules for 
+BCLib - The End  BiomeSource (19fcec66)
+    biomes     = 24
+    namespaces = betterend(19), minecraft(5)
+    seed       = -2673523871263075364
+    height     = 128
+    deciders   = 0
+    config     = BCLEndBiomeSourceConfig{mapVersion=hex, generatorVersion=vanilla, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256} => 20
+[00:00:13] [Server thread/INFO]: [bclib] Merged 22 additional Surface Rules for 
+BCLib - Nether BiomeSource (52f23415)
+    biomes     = 27
+    namespaces = minecraft(5), betternether(22)
+    seed       = -2673523871263075364
+    height     = 128
+    config     = BCLibNetherBiomeSourceConfig{mapVersion=hex, useVerticalBiomes=true, amplified=false, biomeSize=256, biomeSizeVertical=86} => 74
+[00:00:14] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:14] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:14] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:14] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:14] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:14] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:14] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:14] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:14] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:14] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:14] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:14] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:14] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:14] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:14] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:14] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:14] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:14] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:14] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:14] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:14] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:14] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:14] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:14] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:14] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:14] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:14] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:14] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:14] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:14] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:14] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:14] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:14] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:14] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:14] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:14] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:14] [Server thread/INFO]: [STDOUT]: Loaded 0 tesseract references!
+[00:00:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:00:15] [Server thread/WARN]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.chunk_tickets.SortedArraySetMixin. Skipping method.
+[00:00:18] [Server thread/INFO]: Preparing spawn area: 0%
+[00:00:18] [Server thread/INFO]: Preparing spawn area: 0%
+[00:00:18] [Server thread/INFO]: Preparing spawn area: 0%
+[00:00:18] [Server thread/INFO]: Preparing spawn area: 0%
+[00:00:18] [Server thread/INFO]: Preparing spawn area: 0%
+[00:00:18] [Server thread/INFO]: Preparing spawn area: 0%
+[00:00:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:00:19] [Worker-Main-3/INFO]: Preparing spawn area: 24%
+[00:00:21] [Worker-Main-3/INFO]: Preparing spawn area: 95%
+[00:00:21] [Worker-Main-2/INFO]: Preparing spawn area: 95%
+[00:00:21] [Worker-Main-2/INFO]: Preparing spawn area: 95%
+[00:00:21] [Worker-Main-2/INFO]: Preparing spawn area: 95%
+[00:00:21] [Worker-Main-1/INFO]: Preparing spawn area: 95%
+[00:00:22] [Worker-Main-3/INFO]: Preparing spawn area: 95%
+[00:00:22] [Worker-Main-3/INFO]: Preparing spawn area: 95%
+[00:00:23] [Worker-Main-2/INFO]: Preparing spawn area: 95%
+[00:00:23] [Worker-Main-1/INFO]: Preparing spawn area: 95%
+[00:00:24] [Worker-Main-3/INFO]: Preparing spawn area: 95%
+[00:00:24] [Worker-Main-2/INFO]: Preparing spawn area: 95%
+[00:00:25] [Worker-Main-3/INFO]: Preparing spawn area: 95%
+[00:00:25] [Worker-Main-1/INFO]: Preparing spawn area: 95%
+[00:00:26] [Worker-Main-1/INFO]: Preparing spawn area: 96%
+[00:00:26] [Worker-Main-1/INFO]: Preparing spawn area: 97%
+[00:00:27] [Worker-Main-1/INFO]: Preparing spawn area: 98%
+[00:00:27] [Worker-Main-2/INFO]: Preparing spawn area: 99%
+[00:00:28] [Server thread/INFO]: Time elapsed: 12328 ms
+[00:00:28] [Server thread/INFO]: Done (14.670s)! For help, type "help"
+[00:00:28] [Server Watchdog/ERROR]: Caught previously unhandled exception :
+[00:00:28] [Server Watchdog/ERROR]: Server Watchdog
+java.lang.IllegalArgumentException: timeout value is negative
+	at java.lang.Thread.sleep(Native Method) ~[?:?]
+	at net.minecraft.class_3178.run(class_3178.java:83) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[00:00:28] [Server thread/WARN]: Dedicated server took 94.995 seconds to load
+[00:00:28] [Server thread/INFO]: init emc manager
+[00:00:29] [Server thread/INFO]: MSD server Loading files...
+[00:00:29] [Server thread/INFO]: MSD server started with dimensions [minecraft/overworld, ad_astra/glacio, ad_extendra/jupiter, ad_extendra/makemake_orbit, ad_extendra/b_orbit, ad_extendra/neptune, ad_extendra/neptune_orbit, ad_extendra/ceres, ad_extendra/ceres_orbit, ad_extendra/quaoar, ad_astra/mars, ad_astra/venus, minecraft/the_end, ad_extendra/b, ad_extendra/jupiter_orbit, ad_astra/mercury_orbit, ad_extendra/uranus_orbit, minecraft/the_nether, ad_extendra/sedna, ad_astra/earth_orbit, ad_astra/mercury, ad_extendra/eris, ad_extendra/saturn, ad_extendra/saturn_orbit, ad_astra/venus_orbit, ad_astra/glacio_orbit, ad_extendra/makemake, ad_extendra/quaoar_orbit, ad_extendra/orcus, ad_extendra/pluto_orbit, ad_extendra/uranus, ad_extendra/sedna_orbit, ad_extendra/haumea, ad_extendra/haumea_orbit, ad_extendra/eris_orbit, ad_extendra/gonggong, ad_astra/moon, ad_extendra/gonggong_orbit, ad_astra/moon_orbit, ad_extendra/orcus_orbit, ad_astra/mars_orbit, ad_extendra/pluto, ae2/spatial_storage]
+[00:00:29] [Server thread/INFO]: Found available port: 8888
+[00:00:29] [Server thread/INFO]: Loading files...
+[00:00:29] [Server thread/INFO]: Data loading complete for minecraft/overworld in 0.018 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ad_astra/glacio in 0.0 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ad_extendra/jupiter in 0.0 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ad_extendra/makemake_orbit in 0.0 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ad_extendra/b_orbit in 0.0 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ad_extendra/neptune in 0.0 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ad_extendra/neptune_orbit in 0.0 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ad_extendra/ceres in 0.0 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ad_extendra/ceres_orbit in 0.001 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ad_extendra/quaoar in 0.001 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ad_astra/mars in 0.0 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ad_astra/venus in 0.0 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for minecraft/the_end in 0.0 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ad_extendra/b in 0.001 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ad_extendra/jupiter_orbit in 0.0 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ad_astra/mercury_orbit in 0.0 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ad_extendra/uranus_orbit in 0.0 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for minecraft/the_nether in 0.001 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ad_extendra/sedna in 0.0 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ad_astra/earth_orbit in 0.0 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ad_astra/mercury in 0.0 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ad_extendra/eris in 0.001 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ad_extendra/saturn in 0.0 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ad_extendra/saturn_orbit in 0.0 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ad_astra/venus_orbit in 0.0 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ad_astra/glacio_orbit in 0.001 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ad_extendra/makemake in 0.0 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ad_extendra/quaoar_orbit in 0.0 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ad_extendra/orcus in 0.0 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ad_extendra/pluto_orbit in 0.0 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ad_extendra/uranus in 0.0 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ad_extendra/sedna_orbit in 0.001 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ad_extendra/haumea in 0.0 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ad_extendra/haumea_orbit in 0.0 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ad_extendra/eris_orbit in 0.001 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ad_extendra/gonggong in 0.0 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ad_astra/moon in 0.0 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ad_extendra/gonggong_orbit in 0.001 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ad_astra/moon_orbit in 0.0 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ad_extendra/orcus_orbit in 0.0 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ad_astra/mars_orbit in 0.0 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ad_extendra/pluto in 0.0 second(s)
+[00:00:29] [Server thread/INFO]: Data loading complete for ae2/spatial_storage in 0.001 second(s)
+[00:00:29] [Server thread/INFO]: Logging initialized @96137ms to org.mtr.libraries.org.eclipse.jetty.util.log.Slf4jLog
+[00:00:29] [Server thread/INFO]: jetty-9.4.54.v20240208; built: 2024-02-08T19:42:39.027Z; git: cef3fbd6d736a21e7d541a5db490381d95a2047d; jvm 17.0.15+6-Ubuntu-0ubuntu120.04
+[00:00:29] [Server thread/INFO]: Started o.m.l.o.e.j.s.ServletContextHandler@69176d07{/,null,AVAILABLE}
+[00:00:29] [Server thread/INFO]: Started ServerConnector@16e9328{HTTP/1.1, (http/1.1)}{0.0.0.0:8888}
+[00:00:29] [Server thread/INFO]: Started @96317ms
+[00:00:29] [Server thread/INFO]: Server started with dimensions [minecraft/overworld, ad_astra/glacio, ad_extendra/jupiter, ad_extendra/makemake_orbit, ad_extendra/b_orbit, ad_extendra/neptune, ad_extendra/neptune_orbit, ad_extendra/ceres, ad_extendra/ceres_orbit, ad_extendra/quaoar, ad_astra/mars, ad_astra/venus, minecraft/the_end, ad_extendra/b, ad_extendra/jupiter_orbit, ad_astra/mercury_orbit, ad_extendra/uranus_orbit, minecraft/the_nether, ad_extendra/sedna, ad_astra/earth_orbit, ad_astra/mercury, ad_extendra/eris, ad_extendra/saturn, ad_extendra/saturn_orbit, ad_astra/venus_orbit, ad_astra/glacio_orbit, ad_extendra/makemake, ad_extendra/quaoar_orbit, ad_extendra/orcus, ad_extendra/pluto_orbit, ad_extendra/uranus, ad_extendra/sedna_orbit, ad_extendra/haumea, ad_extendra/haumea_orbit, ad_extendra/eris_orbit, ad_extendra/gonggong, ad_astra/moon, ad_extendra/gonggong_orbit, ad_astra/moon_orbit, ad_extendra/orcus_orbit, ad_astra/mars_orbit, ad_extendra/pluto, ae2/spatial_storage]
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for minecraft/overworld caught up with 3601 ticks in 0.039 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ad_astra/glacio caught up with 3601 ticks in 0.021 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ad_extendra/jupiter caught up with 3601 ticks in 0.013 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ad_extendra/makemake_orbit caught up with 3601 ticks in 0.009 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ad_extendra/b_orbit caught up with 3601 ticks in 0.007 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ad_extendra/neptune caught up with 3601 ticks in 0.008 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ad_extendra/neptune_orbit caught up with 3601 ticks in 0.01 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ad_extendra/ceres caught up with 3601 ticks in 0.009 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ad_extendra/ceres_orbit caught up with 3601 ticks in 0.008 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ad_extendra/quaoar caught up with 3601 ticks in 0.015 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ad_astra/mars caught up with 3601 ticks in 0.019 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ad_astra/venus caught up with 3601 ticks in 0.013 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for minecraft/the_end caught up with 3601 ticks in 0.016 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ad_extendra/b caught up with 3601 ticks in 0.013 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ad_extendra/jupiter_orbit caught up with 3601 ticks in 0.013 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ad_astra/mercury_orbit caught up with 3601 ticks in 0.017 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ad_extendra/uranus_orbit caught up with 3601 ticks in 0.013 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for minecraft/the_nether caught up with 3601 ticks in 0.016 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ad_extendra/sedna caught up with 3601 ticks in 0.012 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ad_astra/earth_orbit caught up with 3601 ticks in 0.012 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ad_astra/mercury caught up with 3601 ticks in 0.012 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ad_extendra/eris caught up with 3601 ticks in 0.014 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ad_extendra/saturn caught up with 3601 ticks in 0.013 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ad_extendra/saturn_orbit caught up with 3601 ticks in 0.01 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ad_astra/venus_orbit caught up with 3601 ticks in 0.015 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ad_astra/glacio_orbit caught up with 3601 ticks in 0.013 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ad_extendra/makemake caught up with 3601 ticks in 0.007 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ad_extendra/quaoar_orbit caught up with 3601 ticks in 0.009 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ad_extendra/orcus caught up with 3601 ticks in 0.013 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ad_extendra/pluto_orbit caught up with 3601 ticks in 0.013 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ad_extendra/uranus caught up with 3601 ticks in 0.008 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ad_extendra/sedna_orbit caught up with 3601 ticks in 0.006 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ad_extendra/haumea caught up with 3601 ticks in 0.007 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ad_extendra/haumea_orbit caught up with 3601 ticks in 0.008 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ad_extendra/eris_orbit caught up with 3601 ticks in 0.007 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ad_extendra/gonggong caught up with 3601 ticks in 0.007 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ad_astra/moon caught up with 3601 ticks in 0.012 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ad_extendra/gonggong_orbit caught up with 3601 ticks in 0.007 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ad_astra/moon_orbit caught up with 3601 ticks in 0.011 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ad_extendra/orcus_orbit caught up with 3601 ticks in 0.008 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ad_astra/mars_orbit caught up with 3601 ticks in 0.01 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ad_extendra/pluto caught up with 3601 ticks in 0.012 second(s)
+[00:00:30] [Server thread/INFO]: Simulation difference of 4h8m for ae2/spatial_storage caught up with 3601 ticks in 0.009 second(s)
+[00:00:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2758ms or 55 ticks behind
+[00:00:43] [Server thread/INFO]: [Handshake] Sending channel query
+[00:00:43] [Netty Epoll Server IO #4/INFO]: [Handshake] Receiving client channels
+[00:00:43] [Netty Epoll Server IO #4/INFO]: [Handshake] Handshake completed successfully
+[00:00:44] [Server thread/INFO]: Theohenri_que[/100.88.66.73:58555] logged in with entity id 130 at (284.69999998807907, 119.0, -10.01911318552896)
+[00:00:44] [Server thread/INFO]: Sending server config values to client
+[00:00:44] [Server thread/INFO]: Loading config from file...
+[00:00:45] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[00:00:45] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:00:45] [Server thread/INFO]: Theohenri_que joined the game
+[00:00:47] [Netty Epoll Server IO #4/INFO]: Channel update: Theohenri_que -> default
+[00:00:48] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[00:00:48] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[00:00:48] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[00:00:48] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[00:00:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[00:00:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[00:00:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[00:00:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[00:00:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[00:00:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[00:00:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[00:00:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[00:00:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[00:00:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[00:00:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[00:00:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[00:00:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[00:00:48] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/FemCraft-ATACA-NOVAMENTE/servidor_minecraft/bclib-sync (allowDelete=true)
+[00:00:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2651ms or 53 ticks behind
+[00:02:39] [Worker-Main-1/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:02:39] [Worker-Main-1/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:03:05] [Server thread/INFO]: Theohenri_que has made the advancement [Green Energy]
+[00:03:07] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
+[00:03:16] [Server thread/INFO]: [Theohenri_que: Set the time to 1000]
+[00:04:21] [pool-657-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos class_2338{x=421, y=69, z=357}
+[00:04:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
+[00:04:24] [Server thread/WARN]: [GottaGoFast] Theohenri_que moved too quickly! Moved by -3.335342371762124,0.0,9.688498236062543 blocks in x,y,z direction. If you wish to increase the limit to exclude this, increase the limit to 10.49915068070588
+[00:04:30] [pool-657-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos class_2338{x=635, y=74, z=389}
+[00:04:30] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=635, y=74, z=389} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[00:04:30] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location class_2338{x=635, y=74, z=389}
+[00:04:32] [Server thread/INFO]: Theohenri_que lost connection: Disconnected
+[00:04:32] [Server thread/INFO]: Theohenri_que left the game
+[00:04:41] [Server thread/INFO]: [Handshake] Sending channel query
+[00:04:41] [Netty Epoll Server IO #0/INFO]: [Handshake] Receiving client channels
+[00:04:41] [Netty Epoll Server IO #0/INFO]: [Handshake] Handshake completed successfully
+[00:04:42] [Server thread/INFO]: Theohenri_que[/100.88.66.73:58582] logged in with entity id 2140 at (461.499115240146, 87.49353221582469, 264.00238431790655)
+[00:04:42] [Server thread/INFO]: Sending server config values to client
+[00:04:42] [Server thread/INFO]: Loading config from file...
+[00:04:42] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:04:42] [Server thread/INFO]: Theohenri_que joined the game
+[00:04:42] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[00:04:46] [Netty Epoll Server IO #0/INFO]: Channel update: Theohenri_que -> default
+[00:04:46] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[00:04:46] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[00:04:46] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[00:04:46] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[00:04:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[00:04:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[00:04:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[00:04:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[00:04:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[00:04:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[00:04:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[00:04:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[00:04:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[00:04:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[00:04:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[00:04:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[00:04:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[00:04:46] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/FemCraft-ATACA-NOVAMENTE/servidor_minecraft/bclib-sync (allowDelete=true)
+[00:06:05] [Server thread/INFO]: Theohenri_que lost connection: Disconnected
+[00:06:05] [Server thread/INFO]: Theohenri_que left the game

@@ -1,0 +1,23 @@
+{
+  "__comment": "Instructions: https://blakesmods.com/docs/cucumber/tags-config",
+  "c:sulfur_dusts": "techreborn:sulfur_dust",
+  "c:chromium_ingots": "techreborn:chrome_ingot",
+  "c:lead_ingots": "techreborn:lead_ingot",
+  "c:invar_ingots": "techreborn:invar_ingot",
+  "c:bronze_ingots": "mythicmetals:bronze_ingot",
+  "c:silver_ingots": "mythicmetals:silver_ingot",
+  "c:electrum_ingots": "techreborn:electrum_ingot",
+  "c:rubies": "techreborn:ruby_gem",
+  "c:brass_ingots": "create:brass_ingot",
+  "c:platinum_ingots": "mythicmetals:platinum_ingot",
+  "c:aluminum_ingots": "techreborn:aluminum_ingot",
+  "c:zinc_ingots": "create:zinc_ingot",
+  "c:tin_ingots": "mythicmetals:tin_ingot",
+  "c:iridium_ingots": "techreborn:iridium_ingot",
+  "c:copper_ingots": "minecraft:copper_ingot",
+  "c:nickel_ingots": "techreborn:nickel_ingot",
+  "c:steel_ingots": "mythicmetals:steel_ingot",
+  "c:sapphires": "techreborn:sapphire_gem",
+  "c:tungsten_ingots": "techreborn:tungsten_ingot",
+  "c:titanium_ingots": "techreborn:titanium_ingot"
+}

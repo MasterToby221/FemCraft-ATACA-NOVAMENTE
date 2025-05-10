@@ -1,0 +1,225 @@
+// 
+{
+	"entities": {
+		"moth": {
+			"spawning": {
+				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				"spawn_naturally": true,
+				// The spawn weight compared to other entities (typically between 6-20)
+				"spawn_weight": 10,
+				// Minimum amount of entities in spawned groups
+				"minimum_group_size": 1,
+				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
+				"maximum_group_size": 3,
+				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				"spawn_biomes": [
+					"minecraft:old_growth_birch_forest",
+					"minecraft:flower_forest",
+					"minecraft:windswept_forest",
+					"minecraft:taiga",
+					"minecraft:swamp",
+					"minecraft:birch_forest",
+					"minecraft:dark_forest",
+					"minecraft:mangrove_swamp",
+					"minecraft:forest",
+					"minecraft:grove",
+					"minecraft:sparse_jungle",
+					"minecraft:snowy_taiga",
+					"minecraft:old_growth_pine_taiga",
+					"minecraft:old_growth_spruce_taiga"
+				],
+				"spawn_costs": {
+					// Whether to use spawn costs in spawning or not
+					"use_spawn_costs": false,
+					// Cost to spawning algorithm per entity spawned
+					"cost_per_spawn": 1,
+					// Maximum cost the spawning algorithm can accrue for this entity
+					"maximum_cost_per_biome": 10,
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					"spawn_cost_biomes": []
+				}
+			},
+			// How many moths required to destroy a torch - Disabled if set to 0
+			"moths_to_destroy_torch": 5
+		},
+		"hidebehind": {
+			"spawning": {
+				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				"spawn_naturally": true,
+				// The spawn weight compared to other entities (typically between 6-20)
+				"spawn_weight": 8,
+				// Minimum amount of entities in spawned groups
+				"minimum_group_size": 1,
+				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
+				"maximum_group_size": 1,
+				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				"spawn_biomes": [
+					"minecraft:taiga",
+					"minecraft:birch_forest",
+					"minecraft:dark_forest",
+					"minecraft:forest",
+					"minecraft:old_growth_birch_forest",
+					"minecraft:grove",
+					"minecraft:flower_forest",
+					"minecraft:sparse_jungle",
+					"minecraft:windswept_forest",
+					"minecraft:snowy_taiga",
+					"minecraft:old_growth_pine_taiga",
+					"minecraft:old_growth_spruce_taiga"
+				],
+				// Enables biome based variant selection. This will make this entity choose variants tailored to the biome they spawn in (Only applies to natural spawns)
+				"biome_based_variants": true,
+				"spawn_costs": {
+					// Whether to use spawn costs in spawning or not
+					"use_spawn_costs": false,
+					// Cost to spawning algorithm per entity spawned
+					"cost_per_spawn": 1,
+					// Maximum cost the spawning algorithm can accrue for this entity
+					"maximum_cost_per_biome": 10,
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					"spawn_cost_biomes": []
+				}
+			}
+		},
+		"wisp": {
+			// Allows the entity to despawn freely when no players are nearby, like vanilla monsters do
+			"can_despawn": false,
+			"spawning": {
+				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				"spawn_naturally": true,
+				// The spawn weight compared to other entities (typically between 6-20)
+				"spawn_weight": 13,
+				// Minimum amount of entities in spawned groups
+				"minimum_group_size": 1,
+				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
+				"maximum_group_size": 3,
+				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				"spawn_biomes": [
+					"minecraft:crimson_forest",
+					"minecraft:old_growth_birch_forest",
+					"minecraft:flower_forest",
+					"minecraft:windswept_forest",
+					"minecraft:taiga",
+					"minecraft:warped_forest",
+					"minecraft:swamp",
+					"minecraft:birch_forest",
+					"minecraft:dark_forest",
+					"minecraft:mangrove_swamp",
+					"minecraft:forest",
+					"minecraft:grove",
+					"minecraft:sparse_jungle",
+					"minecraft:snowy_taiga",
+					"minecraft:old_growth_pine_taiga",
+					"minecraft:old_growth_spruce_taiga"
+				],
+				"spawn_costs": {
+					// Whether to use spawn costs in spawning or not
+					"use_spawn_costs": false,
+					// Cost to spawning algorithm per entity spawned
+					"cost_per_spawn": 1,
+					// Maximum cost the spawning algorithm can accrue for this entity
+					"maximum_cost_per_biome": 10,
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					"spawn_cost_biomes": []
+				}
+			},
+			// Chance of wisp being hostile (soul stealer). Chance is a percentage out of 100. 0 is never, 100 is always
+			"hostile_chance": 12
+		},
+		"hirschgeist": {
+			// Allows the entity to despawn freely when no players are nearby, like vanilla monsters do
+			"can_despawn": false,
+			"spawning": {
+				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				"spawn_naturally": true,
+				// The spawn weight compared to other entities (typically between 6-20)
+				"spawn_weight": 2,
+				// Minimum amount of entities in spawned groups
+				"minimum_group_size": 1,
+				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
+				"maximum_group_size": 1,
+				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				"spawn_biomes": [
+					"minecraft:taiga",
+					"minecraft:birch_forest",
+					"minecraft:dark_forest",
+					"minecraft:forest",
+					"minecraft:old_growth_birch_forest",
+					"minecraft:grove",
+					"minecraft:flower_forest",
+					"minecraft:sparse_jungle",
+					"minecraft:windswept_forest",
+					"minecraft:snowy_taiga",
+					"minecraft:old_growth_pine_taiga",
+					"minecraft:old_growth_spruce_taiga"
+				],
+				"spawn_costs": {
+					// Whether to use spawn costs in spawning or not
+					"use_spawn_costs": false,
+					// Cost to spawning algorithm per entity spawned
+					"cost_per_spawn": 1,
+					// Maximum cost the spawning algorithm can accrue for this entity
+					"maximum_cost_per_biome": 10,
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					"spawn_cost_biomes": []
+				}
+			}
+		},
+		"zotzpyre": {
+			"spawning": {
+				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				"spawn_naturally": true,
+				// The spawn weight compared to other entities (typically between 6-20)
+				"spawn_weight": 30,
+				// Minimum amount of entities in spawned groups
+				"minimum_group_size": 1,
+				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
+				"maximum_group_size": 1,
+				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				"spawn_biomes": [
+					"minecraft:snowy_plains",
+					"minecraft:ice_spikes",
+					"minecraft:meadow",
+					"minecraft:windswept_savanna",
+					"minecraft:flower_forest",
+					"minecraft:stony_peaks",
+					"minecraft:windswept_hills",
+					"minecraft:taiga",
+					"minecraft:cherry_grove",
+					"minecraft:stony_shore",
+					"minecraft:bamboo_jungle",
+					"minecraft:dark_forest",
+					"minecraft:frozen_peaks",
+					"minecraft:mangrove_swamp",
+					"minecraft:forest",
+					"minecraft:beach",
+					"minecraft:snowy_slopes",
+					"minecraft:sparse_jungle",
+					"minecraft:jagged_peaks",
+					"minecraft:old_growth_pine_taiga",
+					"minecraft:old_growth_spruce_taiga",
+					"minecraft:jungle",
+					"minecraft:snowy_beach",
+					"minecraft:windswept_gravelly_hills",
+					"minecraft:old_growth_birch_forest",
+					"minecraft:windswept_forest",
+					"minecraft:swamp",
+					"minecraft:birch_forest",
+					"minecraft:grove",
+					"minecraft:eroded_badlands",
+					"minecraft:snowy_taiga"
+				],
+				"spawn_costs": {
+					// Whether to use spawn costs in spawning or not
+					"use_spawn_costs": false,
+					// Cost to spawning algorithm per entity spawned
+					"cost_per_spawn": 1,
+					// Maximum cost the spawning algorithm can accrue for this entity
+					"maximum_cost_per_biome": 10,
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					"spawn_cost_biomes": []
+				}
+			}
+		}
+	}
+}
